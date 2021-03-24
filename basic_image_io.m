@@ -1,7 +1,9 @@
 %% Basic image input/output
 % Using matlab to read image, display image, and save image
 % Using KITTI data sets for my image source
-
+close all
+clear all
+clc
 %%
 % Path to kitti data set
 im_path = '/Volumes/swap/projects/2011_09_29/2011_09_29_drive_0071_extract/';
